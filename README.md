@@ -4,9 +4,9 @@
 
 #Dataset download from Kaggle 
 
-#4 decades of movies
+#Four Decades of movies
 
-#My question before exploring the dataset is
+#My question before exploring the dataset is:
 
 #1) what makes great movies; by revenue,by rating, and what other factor involves to make movie great?.
 
@@ -27,4 +27,4 @@
         
         # visualizing data using seaborn heatmap (sns.heatmap)
         
-        #lets looks at the top 15 compaies by gross revenue
+        #lets looks at the top 15 companies by gross revenue
